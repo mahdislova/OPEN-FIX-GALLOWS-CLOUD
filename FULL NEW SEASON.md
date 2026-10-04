@@ -54,7 +54,7 @@ Everything else follows from that sentence.
 **What gallowglass does**
 
 - Burned in lamps and furnaces, it gives a green-white light and steady heat. The Ring, London's lamp grid, carries it under every street.
-- Ground to dust it becomes **glim**, the undercity's drug. Users hear the Weeping, which is the first clue, given in Episode 1.
+- Ground to dust it becomes **glim**, the undercity's drug. Users hear the Weeping, which is the first clue, given in Episode 1. It is Morgana's lullaby to her daughter, and London has sung it for four hundred years as the Lantern Hymn, with new words nailed over the old tune.
 - It refuses anyone of the White unless they carry Harding blood, which is why the Lost One can touch Nathaniel without freezing him.
 
 **The Royal Lantern Guard.** Chartered in 1689 to protect the Ring, they are London's elite, armed by the Harding Works. Oath: *Light the dark. Keep the flame.* Ranks run Wick (recruit), Flame (trooper), Lantern-Captain.
@@ -150,6 +150,23 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 | 9 | First snow | The Snow Confession | Evening to midnight: the assault | Newgate break-out, then storming the Works | Eldgard dies and tells everything | Josephine pulls the lever |
 | 10 | The longest night | The Tithe | Midnight to dawn | London goes dark and the wolves come | Nathaniel frees Morgana. Josephine goes into the White. The Lost One stays | A heartbeat. Post-credits: Jamie, alive in the White |
 
+### The choices that shape the season
+
+Every episode turns on a decision where both options are right and both cost something. Nathaniel makes the heaviest ones, and nobody makes a choice that can be undone.
+
+| Ep | Who | The choice | What it costs | What it changes |
+| --- | --- | --- | --- | --- |
+| 3 | Nixon | Capture the Lost One, or save Cole | Duty. He lets her go | Vane has a reason to break him later |
+| 4 | Nathaniel | Pull Ajax up (the only witness against Lambrick) or let him drop (Jamie's grave) | Justice for his brother, and the case against Lambrick | The ledger now has to come from Tamara |
+| 5 | Nathaniel | Leave with Alice and the Lost One, or stay to hear the rest from his father | Alice's trust, and the Lost One's safety | He chooses his father, and Alice leaves without him |
+| 7 | Alice | The sister she lost, or the girl standing in front of her | Her grief | She chooses the Lost One anyway |
+| 7 | Nixon | Keep Jamie's death secret, or confess to his best friend | The friendship | Nathaniel stops trusting him |
+| 8 | Nathaniel | Marry Tamara to protect her, or keep faith with Alice | Alice, in the same room, watching | Tamara is untouchable, and Alice nods |
+| 8 | Alice | Guard the Lost One, or watch the vows | Her sister | The Lost One is taken |
+| 8 | Nixon | Obey Vane and fire, or stand down | His rank and his men | Forty Lanterns follow him |
+| 9 | Josephine | Keep her son clear of the Works, or pull the lever to buy him the hours | Her last way back. She will have to walk down as a Harding herself | The lever fails, and the line gets until midnight |
+| 10 | Nathaniel | Walk into the White himself, or let his mother go in his place | His life, or his mother's | He says "Go" and carries it |
+
 ## Episode 1 — "The Engagement"
 
 **49 DAYS TO FIRST SNOW.** 2 November 1889. **Focus:** one night, two parties: the Harding ball above, the glim run below, until the light flickers. **Set piece:** the Works blackout. **Sting:** the man who shoots the saboteur is the hero's best friend, and the saboteur is the hero's brother.
@@ -232,7 +249,7 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 **Act Two**
 
 7. **Lambrick coach.** Lambrick to Tamara: "The heir is dead. Your fiancé is the heir now. Marry him fast." Tamara: "Let me run the books instead." "You're a wedding, not a ledger." On the ride she reads his account book upside down and spots a line: *2 Nov, Works gate, 200 gns, A.F.*
-8. **St Bride's, the funeral.** The Lantern Guard honour guard; Nixon carries the coffin. Lord Chancellor VANE and the great houses attend. Nathaniel gives the eulogy and breaks halfway. When the church lamps flare he hears the Weeping during the hymn. Among the Harding brasses on the chancel wall is a girl's: OTTOLINE HARDING, 1820 TO 1839, DIED ABROAD. Nathaniel asks Byron who she was. "Your father's sister, sir." Byron says no more, and Eldgard never turns his head toward it. Tamara takes his hand: kindness, nothing more. Nixon watches.
+8. **St Bride's, the funeral.** The Lantern Guard honour guard; Nixon carries the coffin. Lord Chancellor VANE and the great houses attend. Nathaniel gives the eulogy and breaks halfway. When the church lamps flare he hears the Weeping under the hymn, the same tune a half-step down. Among the Harding brasses on the chancel wall is a girl's: OTTOLINE HARDING, 1820 TO 1839, DIED ABROAD. Nathaniel asks Byron who she was. "Your father's sister, sir." Byron says no more, and Eldgard never turns his head toward it. Tamara takes his hand: kindness, nothing more. Nixon watches.
 9. **The graveside.** Alice is there on her contract, posing as a mourner from the Works, and for herself: Miriam loved this man's brother. Nathaniel recognises the lamp-girl. Two people grieving, one of them lying. He offers his handkerchief; she keeps it.
 10. **Vykra laundry.** Josephine, veiled, meets Grise and pays in gold for the contract she placed weeks ago on her son, and doubles it now that Jamie is dead. "Keep him close. Keep him out of the Works. His father will use him." A reveal for the audience: Josephine is old Vykra, and Alice's contract came from Nathaniel's mother.
 11. **Harding Works, core level.** Nathaniel forces the outer gate. The core door is sealed and Eldgard's men turn him back, but on the stairs he finds a spent Lantern Guard rifle cartridge. *Therefore* his brother's death wasn't an accident.
@@ -336,7 +353,7 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 
 7. **Vykra laundry.** Grise: "Bring me the frost girl." Alice: "No." Grise cuts the Vykra knot out of Alice's glove with one snip. "Then you're no one's." Alice walks out into the rain with nowhere to belong.
 8. **Coal docks, Thursday night, set piece.** Nathaniel and Alice ambush Ajax among the coal barges. The Black Gauntlet hits like a steam hammer, *WHUNK*, and Nathaniel recognises his own stolen prototype in it. He's losing. Alice blinds Ajax with a flash-burst from her new gauntlet, and together they hook him onto a crane and swing him out over the black river.
-9. **The crane.** Ajax, upside down, laughs. "Your brother paid me. I cut the outer grid. I never touched him." Then: "Your father went down after. Ask the Guard who fired." Nathaniel lets go of the lever. Ajax drops into the Thames. *Splash.* The Thames keeps him, for now.
+9. **The crane.** Ajax, upside down, laughs. "Your brother paid me. Lambrick paid me too, but your brother paid double. I cut the outer grid. I never touched him." Then: "Your father went down after. Ask the Guard who fired." Alice: "Pull him up. He's the only witness we have." Nathaniel's hand is on the lever, and two true things pull at it: the man who helped kill his brother, or the one voice that can put Lambrick in the dock. "He's Jamie's grave," he says, and lets go. Ajax drops into the Thames. *Splash.* The Thames keeps him, for now.
 10. **Harding House, the study.** Nathaniel: "Jamie paid Lambrick's man. Why?" Eldgard: "Your brother was ill. Melancholy. He wanted to destroy this house." It's half true, which is how Eldgard lies. Then the bait Nathaniel has wanted all his life: "After the hearing I'll take you into the work. All of it."
 11. **Harding House, the back stairs.** Josephine asks Byron where Nathaniel goes at night. Byron lies for the boy. It's the first time he has ever lied to her.
 12. **Newgate, cell 1417.** Nixon, alone, in civilian coat, with the slip. The prisoner is an old man, TOBIAS MARSH, seventy if a day, in the dark at the end of the debtors' wing, picking at a string he calls his harp. Nixon: "Jamie Harding came here every Sunday. Why?" The old man hums, then pinches Nixon's cheek through the bars and cackles. "Marian's chin! Marian's chin!" Nixon goes still. "What did you say?" "Seven in the Orchard, ripe for the fall. One on the tree for the lantern's call. Thirteen steps down where the cold water drips, count the apples, kiss the stones' lips." Nixon grabs the bars: "Enough. Why was Jamie Harding visiting you? Tell me, you old fool." Marsh only cocks his head and smiles. "He cried too, you know. Same place in the song." Then he turns his back and goes back to his harp. Nixon leaves with a nursery rhyme and a cold feeling he can't name.
@@ -393,13 +410,13 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 10. **The gantries.** Nixon, on the high walk, sees them pass. Orders say let them through. He gives the whistle they invented at nine years old, *turn back*. Nathaniel hears it, smiles because it's Nix, and keeps going.
 11. **The Strand, finale.** Ajax's crew cuts the outer grid. The East End goes dark in the middle of the fireworks. Inside the Works, every lock resets, and the heisters are trapped between two doors with the Guard alarm ringing.
 12. **The shaft.** Tamara recodes the inner door by ear, listening to the tumblers, while Alice holds her by the belt over a crystal shaft four hundred feet deep. Neither of them says thank you. *Click.* It opens.
-13. **The core.** They go down, and we see her whole for the first time. MORGANA: nine feet of ice and green fire, iron hooks through her shoulders and hips, her blood running green along channels into London. She is singing, and it's the Weeping.
+13. **The core.** They go down, and we see her whole for the first time. MORGANA: nine feet of ice and green fire, iron hooks through her shoulders and hips, her blood running green along channels into London. She is singing, and it's the Weeping: the Lantern Hymn's tune, with none of the words.
 
 **Act Three**
 
-14. **The chain.** "Little frost. You came." The Lost One grabs the chain, and it burns her mittens to smoke. Alice pulls her back. Morgana, to Alice: "You have my daughter's hand. Give it back." Alice: "She's my sister."
+14. **The chain.** "Little frost. You came." The Lost One grabs the chain, and it burns her mittens to smoke. Alice pulls her back. Morgana, to Alice: "You have my daughter's hand. Give it back." Alice: "She's my sister." Then, to Nathaniel, almost gently: "You came down these stairs once, little Harding. And your brother is not dead. He is cold."
 15. **The lock.** Nathaniel touches the chain, and it tightens. Morgana screams, and across London the lamps surge brighter. His blood feeds it. Jamie's glass blade is still stuck in the lock where he left it, and his diagram suddenly makes sense.
-16. **The core.** Eldgard steps out of the dark; he's been waiting. "Now you know what your brother knew." The Tithe: every fifty winters, at first snow, a Harding gives his life to the chain, or it breaks and London freezes. "I raised Jamie for it. Jamie ran. Now it's you." Nathaniel: "Why not you?" "It takes what the house would least spare. It has never wanted an old man."
+16. **The core.** Eldgard steps out of the dark; he's been waiting. "Now you know what your brother knew." The Tithe: every fifty winters, at first snow, a Harding gives his life to the chain, or it breaks and London freezes. "I raised Jamie for it. Jamie ran. Now it's you." Nathaniel: "Why not you?" Eldgard doesn't answer. The silence goes on a beat too long, and Nathaniel files it away.
 17. **The core door.** It seals with a hiss, iron on glass. Behind the glass is Nixon, following orders. Nathaniel: "Nix!" Nixon doesn't look away, and that's worse.
 18. **The core, escape.** The Lost One, desperate, lets go of the cold. The core freezes, Morgana's light chokes, and every lamp in London goes out on Lantern Night: fireworks bursting over a black city. Alice blows the door with her gauntlet. Tamara drags the Lost One into the outfall. Alice reaches for Nathaniel. He stays: "I need to hear the rest." She leaves him there.
 19. **Westminster Bridge.** Total dark, a panicking crowd, a crush. Cole's squad hold a barricade with flash-bursts; people still die against the railings. Lambrick, on a coal cart: "Remember who kept you warm!"
@@ -450,7 +467,7 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 **Act Three**
 
 14. **The Tyburn conduit, set piece.** Alice and the Lost One go down. Ajax's men are lighting fuses in a side drain. Four tunnel children are sleeping in the warm pipe-nook beyond it. Nixon's squad waits in the dark ahead, Cole among them.
-15. **The ambush.** Flash-bursts. Nixon corners the Lost One. Alice fights Nixon, gauntlet to gauntlet, in a tunnel too narrow to swing in: the two leads' first real clash. Neither of them wants to win.
+15. **The ambush.** Flash-bursts. Nixon corners the Lost One, and she grabs his wrist and goes white. "Somebody told you your mother was sleeping. She wasn't." He lets go as if burned. Alice fights Nixon, gauntlet to gauntlet, in a tunnel too narrow to swing in: the two leads' first real clash. Neither of them wants to win.
 16. **The spark.** Nathaniel arrives screaming "Gas!" Ajax, seeing the Guard, lights early. The Lost One's cold meets a flash-burst in the main.
 17. **Pimlico, the explosion.** The gasworks erupts. *WHOOOM.* Fire rolls along the river. A mile downriver, the windows of the Charter chamber blow in on the voting lords.
 18. **The rubble.** Byron lifts the beam off Nathaniel and takes its weight himself, and it crushes him. Dying, he says: "Your mother killed the inspector. She does it for you. Don't let her." Then: "You were always enough." He dies with his hand on the boy's face. In his other fist is the blue ribbon.
@@ -470,7 +487,7 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 | Character | Want | Obstacle | Solution | Twist |
 | --- | --- | --- | --- | --- |
 | Alice | The truth about who she's been protecting | The truth: Miriam was leaving her, and this isn't Miriam | Throws the Lost One out | Runs into a wolf attack for her, and chooses her: "I'm Alice. I'm your sister." |
-| The Lost One | To be wanted for herself | She has lost Alice's name, and Alice has thrown her out | Goes to the place she first came through | Commands the wolves in front of the city, and becomes the Frost Witch |
+| The Lost One | To be wanted for herself | She has lost Alice's name, Alice has thrown her out, and Miriam's love for Jamie keeps surfacing in her body | Goes to the place she first came through | Commands the wolves in front of the city, and becomes the Frost Witch |
 | Nixon | To put the lie down | Nathaniel's love for him | Confesses at their boyhood spot | Learns from Eldgard's own file that he was bred as a reserve |
 | Nathaniel | To know what his father did, and what he made | Every adult he loves is lying | Corners Eldgard | Jamie was alive when Nixon left, and the Heartglass is a cage for the Lost One |
 | Tamara | To stop her father, and to stop being polite | A wedding in seven days | Takes the seized Harding papers and gives Nixon his file | Kisses Nixon a week before she marries his best friend |
@@ -503,15 +520,16 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 **Act Three**
 
 15. **Whitehall, Vane's office, dawn.** Vane declares martial law: the Frost Witch is to be captured. Lambrick has read the folio: "Put her in the chain and the Crown never needs a Harding again. The light becomes ours." Vane hears only "the lights stay on."
-16. **Harding Works, Eldgard's old gallery, empty.** Eldgard is drunk among the dead vats. Nathaniel: "What did you do after Nixon left?" "Ask me at the solstice." "Now." "I finished it." Then, almost to himself: "The Pact is on a lead sheet in my grandfather's tomb. Only a Harding wedding opens it." Then: "What's the Heartglass for?" "Her. The daughter. She'd hold her mother forever, and you'd live." Nathaniel built a cage for Alice's sister.
+16. **Harding Works, Eldgard's old gallery, empty.** Eldgard is drunk among the dead vats. Nathaniel: "What did you do after Nixon left?" "Ask me at the solstice." "Now." "I finished it." Then, almost to himself: "The Pact is on a lead sheet in the tomb of the first Harding, Alistair. Only a Harding wedding opens it." Then: "What's the Heartglass for?" "Her. The daughter. She'd hold her mother forever, and you'd live." Nathaniel built a cage for Alice's sister.
 17. **Vykra laundry.** Josephine and Grise agree a price for the Frost Witch, delivered to Josephine, not the Crown. Josephine: "She's not a girl, Grise." Grise: "None of us were, by the time we came here."
 18. **Guard barracks, the infirmary.** Tamara comes in while Nixon is changing Cole's dressings. She gives Nixon a folder copied from her father's seized Harding papers: "It has your name on it." Then, a week before her wedding, she kisses him. Cole pretends very hard to be asleep.
-19. **Harding glasshouse.** Alice brings the Lost One back. Nathaniel is waiting, and he tells Alice he built the cage. Alice hits him harder than Nathaniel hit Nixon. Then: "So you know how to break it." The three of them, broken, at one table. Twenty-one days, and everyone wants her in the chain.
-20. **Gin Lane rooftop.** Whimsy and grief. The Lost One asks Alice to teach her the counting game again, since she lost it. Alice teaches her. She gets it wrong on purpose, to make Alice laugh. It works.
+19. **Harding House, the long gallery.** Alice brings the Lost One in by the servants' door, and they cross the gallery of Harding portraits in the half-dark. The Lost One stops at Jamie's: twenty-five, laughing at something outside the frame, a skate-blade over his shoulder. Her hand goes to her belly without her knowing it. Her breath catches on a feeling that isn't hers, the whole of Miriam's love for him arriving in her body at once. Alice: "What's wrong?" "Nothing." Alice looks at the portrait, then at her, and decides not to ask. They go on to the glasshouse.
+20. **Harding glasshouse.** Alice brings the Lost One back. Nathaniel is waiting, and he tells Alice he built the cage. Alice hits him harder than Nathaniel hit Nixon. Then: "So you know how to break it." The three of them, broken, at one table, and the plan comes out as logistics: the Pact is in Alistair's tomb, and the tomb opens only for a Harding wedding. Nathaniel: "Then I'll have to be married." Alice: "Yes." Both answer too fast. The Lost One looks from one to the other: "You both look sad when you look at each other. Is that what weddings are for?" Nobody answers. Twenty-one days, and everyone wants her in the chain.
+21. **Gin Lane rooftop.** Whimsy and grief. The Lost One asks Alice to teach her the counting game again, since she lost it. Alice teaches her. She gets it wrong on purpose, to make Alice laugh. It works.
 
 **Tag**
 
-21. **Guard barracks, Nixon's room.** Nixon opens Tamara's folder. His charity-school blood test, the green sliver, Eldgard's hand: *Hargrave, N. Cadet line of Harding. Reserve. Blood suitable.* He was never a charity case. He was a spare.
+22. **Guard barracks, Nixon's room.** Nixon opens Tamara's folder. His charity-school blood test, the green sliver, Eldgard's hand: *Hargrave, N. Cadet line of Harding. Reserve. Blood suitable.* He was never a charity case. He was a spare.
 
 ## Episode 8 — "The Wedding"
 
@@ -521,10 +539,10 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 
 | Character | Want | Obstacle | Solution | Twist |
 | --- | --- | --- | --- | --- |
-| Nathaniel | To get through the wedding while Alice finds the Pact | His mother tells him Alice was paid to love him | Plays his part, then sees Ajax in the vestry | Marries Tamara for real to save her life |
+| Nathaniel | To get through the wedding while Alice finds the Pact | His mother tells him Alice was paid to love him | Plays his part with his eyes on the gallery, then sees Ajax in the vestry | Marries Tamara for real to save her life |
 | Alice | The original Pact in Alistair's tomb | Nathaniel has stopped trusting her | Gets it, then leaves the Lost One alone for two minutes to watch him at the altar | Comes back to frost on the wall: DON'T FOLLOW ME |
 | The Lost One | A way to free her mother | The Pact's second clause | Hides the clause from Alice and lets the Vykra take her | Morgana understands what she means to do, and her grief makes the snow |
-| Tamara | To expose her father at the altar | Ajax swapped her pages | Says "I will" | Safe and married, and in love with the best man |
+| Tamara | To expose her father at the altar | Ajax swapped her pages, and a lunacy order waits in the vestry | Says "I will" | Safe and married, and in love with the best man |
 | Nixon | To stop being anybody's reserve | Vane's order to fire on the crowd | Refuses | Stripped of his lantern. Forty men tear off theirs and follow him. Alone afterwards, he counts thirteen steps down and finds the Orchard and his mother's name |
 | Josephine | Her son kept out of the chain | Eldgard, the girl, the Crown | Sells her husband to Lambrick for the girl | Learns from Eldgard the girl can't hold the chain, too late |
 
@@ -536,37 +554,35 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 
 **Act One**
 
-2. **Harding House, the groom's dressing room.** Josephine straightens his tie and gives him Grise's receipt for the contract on her own son. "She was paid to get close to you. By me. Whatever she's felt, I bought it." Nathaniel can't breathe.
-3. **The glasshouse.** Alice and the Lost One prepare for the crypt. Alistair's tomb is opened only for Harding weddings. Nathaniel arrives: "Were you paid?" Alice: "At first." He leaves before she can say the rest.
-4. **Lambrick House.** Tamara in white, her prayer book with the ledger pages copied inside, rehearsing the speech she'll make in front of the Lord Chancellor. Ajax hands her into the carriage with a smile.
-5. **Guard tower.** Vane's orders: arrest Eldgard Harding after the vows, then clear the crowd at the gates "by any means." Nixon, his file still in his coat: "I'm done being anybody's reserve, Cole."
-6. **Harding House, the library.** Before the guests arrive, Josephine and Lambrick close a deal: the girl goes to the chain, Nathaniel stays out of it, and Eldgard goes to Newgate. For the audience, Josephine has sold her husband.
-7. **The Harding chapel.** Guests, lilies, the Crown. Eldgard sits alone, unaware. Nixon stands up as best man, a promise from months ago. Beside the groom he hasn't spoken to since the roof, he waits for the bride he kissed a week ago.
+2. **Harding House, the groom's dressing room.** Josephine straightens his tie and gives him Grise's receipt for the contract on her own son. "She was paid to get close to you. By me. Whatever she's felt, I bought it." Nathaniel can't breathe. Josephine leaves, and Eldgard takes her place at the door with Jamie's cufflinks in his palm. Nathaniel: "Did you hold his hand?" Eldgard: "I held his hand." It's the half-truth he lies in. Nathaniel takes the cufflinks and puts them on, smiling, because he knows what today is for.
+3. **The glasshouse.** Alice and the Lost One prepare for the crypt. Alistair's tomb is opened only for Harding weddings. Nathaniel arrives: "Were you paid?" Alice: "At first." She starts to say the rest, and he is already gone. The wedding was her plan, and she is the one who has to watch it.
+4. **Guard tower.** Vane's orders: arrest Eldgard Harding after the vows, then clear the crowd at the gates "by any means." Nixon, his file still in his coat: "I'm done being anybody's reserve, Cole."
+5. **The Harding chapel.** Guests, lilies, the Crown. Eldgard sits alone, unaware. Nixon walks in uninvited and stops behind the groom he hasn't spoken to since the roof. Nathaniel, not turning: "Stand where I can see you." Nixon steps up beside him. A whisper: "You look terrible." "I haven't slept." "Neither have I." He waits for the bride he kissed a week ago.
 
 **Act Two**
 
-8. **The crypt, below.** Alice and the Lost One come in through the old ossuary. Whimsy: the Lost One wishes the skulls good morning, one by one. Alistair's tomb holds the Pact on a lead sheet in two scripts. Alice reads the first clause: a Harding life at the first snow. The second clause is in the language of the White. The Lost One reads it and tells Alice it says the same thing. It doesn't.
-9. **The gates.** An undercity crowd has gathered. Some carry candles for the Frost Witch who stopped the wolves; others are coal-men with clubs who want her burned. Lanterns form a line.
-10. **The chapel, the vows.** "If any man knows cause…" Tamara opens her prayer book to read out her father's crimes, and every page is blank. Lambrick, gently, to the room: "My daughter is unwell." Her lips shake.
-11. **The vestry door.** Nixon sees Ajax waiting inside with a wire looped in his hands. After the vows, the unwell bride has an accident. Nixon catches Nathaniel's eye and whistles their old signal, *danger*. Nathaniel looks, and sees Ajax.
-12. **The crypt.** Up above, the organ stops. Alice: "Two minutes." She leaves the Lost One alone and runs up the stairs. It's the biggest mistake she makes all season, and she makes it for love.
-13. **The chapel.** If Tamara is a Harding today, under a Harding roof and in front of the Crown, her father can't touch her. Nathaniel: "I will." Tamara understands why: "I will." Nixon hands over the ring. Alice, at the gallery door, watches the boy she loves marry someone else.
-14. **The crypt.** Grise's Vykra come down the ossuary stairs. The Lost One doesn't fight. She holds out her wrists. On the stone wall she writes in frost: DON'T FOLLOW ME.
-15. **The chapel steps.** Vane's marshals arrest Eldgard for hiding the core from the Crown. He looks at his wife and understands. "Josie." She doesn't look away.
+6. **The crypt, below.** Alice and the Lost One come in through the old ossuary. Whimsy: the Lost One wishes the skulls good morning, one by one, and hums the Lantern Hymn to them in a key no church uses. Alistair's tomb holds the Pact on a lead sheet in two scripts. Alice reads the first clause: a Harding life at the first snow. The second clause is in the language of the White. The Lost One reads it and tells Alice it says the same thing. It doesn't.
+7. **The gates.** An undercity crowd has gathered. Some carry candles for the Frost Witch who stopped the wolves; others are coal-men with clubs who want her burned. Lanterns form a line.
+8. **The chapel, the vows.** "If any man knows cause…" Tamara opens her prayer book to read out her father's crimes, and every page is blank. Lambrick, gently, to the room: "My daughter is unwell." Her lips shake.
+9. **The vestry door.** Nixon sees Ajax waiting inside with two Bethlem attendants, a strait-coat, and a lunacy order Lambrick has had a doctor sign. The blank prayer book is all the proof it needs. After the vows, the unwell bride is carried out of a Harding chapel to Bethlem, and nobody will stop it, because who contradicts a father about a madwoman? Nixon catches Nathaniel's eye and whistles their old signal, *danger*. Nathaniel looks, and sees Ajax.
+10. **The crypt.** Up above, the organ stops. Alice: "Two minutes." She leaves the Lost One alone and runs up the stairs. It's the biggest mistake she makes all season, and she makes it for love.
+11. **The chapel.** If Tamara is a Harding today, under a Harding roof and in front of the Crown, her father can't touch her, because a wife can't be committed without her husband's signature. Nathaniel: "I will." Tamara understands why: "I will." Nixon hands over the ring. "Congratulations, miss." "Thank you, Captain." Nathaniel looks up to the gallery and finds Alice at the door. She nods once, small, like a permission. She is letting him go.
+12. **The crypt.** Grise's Vykra come down the ossuary stairs. The Lost One doesn't fight. She holds out her wrists. On the stone wall she writes in frost: DON'T FOLLOW ME.
+13. **The chapel steps.** Vane's marshals arrest Eldgard for hiding the core from the Crown. He looks at his wife and understands. "Josie." She doesn't look away.
 
 **Act Three**
 
-16. **The gates, set piece.** The crowd sees Eldgard in irons and surges. Coal-men and Frost Witch believers clash. Vane: "Lanterns, fire." Nixon: "Lanterns, stand down." Vane's second company raises their rifles, and Nixon's company raises theirs back. Cole walks out between the lines with his hands up. Nobody fires. Vane rips the lantern from Nixon's collar, and forty Lanterns tear off their own, drop them in the snowless gutter, and walk away with their captain.
-17. **The crypt.** Alice comes back to an empty tomb and the words on the wall, the same words as Miriam's letter. Her knees go.
-18. **Harding House, the old nursery.** The newlyweds sit alone with the wedding breakfast. "We said forty years of politeness." "We managed four minutes." Tamara: "Thank you." "Don't." She tells him she loves Nixon. "I know. I watched him hand me the ring." One unsaid thing, finally said.
-19. **The glasshouse.** Alice brings Nathaniel the lead sheet. Married an hour and lied to by everyone, he reads it anyway. The second clause has a Latin twin, and the Lost One never read that one aloud: *Or a daughter of the White may take her mother's place, and the mother walk free.* Alice: "She went because she wanted to."
-20. **The Works, thirteen steps.** Nixon, stripped of his rank an hour ago, alone, in the dark, with the old man's rhyme going round his head. He finds the coal-hatch stair behind the Works and counts down. Thirteen. Behind the last stone is a door, and behind the door is the Orchard: a long low gallery of iron-barred bunks, child-sized shackles, a wall scratched with names and tally marks. Each name is a Hargrave. He finds MARIAN, with a date four years after he was told she died of fever. He sits on her bunk. *Creak.* A wooden spoon is still under the pillow. He understands what he was picked out of.
-21. **Newgate.** Josephine visits Eldgard through the bars. "Our son lives." Eldgard: "You've killed him. I never finished tuning the Heartglass. The girl can't hold the chain. She'll crack it, and when it breaks they'll need a Harding anyway." Josephine's face: she has made a mistake.
-22. **The core.** Lambrick and Vane watch the Heartglass, Nathaniel's design, close around the Lost One beside her mother. She speaks to Morgana in the language of the White: "I've come to take your place." Morgana understands, and screams. It's grief, not rage.
+14. **The gates, set piece.** Nixon walks out of the chapel still holding the empty ring box. The crowd sees Eldgard in irons and surges. Coal-men and Frost Witch believers clash. Vane: "Lanterns, fire." Nixon: "Lanterns, stand down." Vane's second company raises their rifles, and Nixon's company raises theirs back. Cole walks out between the lines with his hands up. Nobody fires. Vane rips the lantern from Nixon's collar, and forty Lanterns tear off their own, drop them in the snowless gutter, and walk away with their captain.
+15. **The crypt.** Alice comes back to an empty tomb and the words on the wall, the same words as Miriam's letter. Her knees go. She left her sister to watch a boy marry someone else.
+16. **Harding House, the old nursery.** The newlyweds sit alone with the wedding breakfast. "We said forty years of politeness." "We managed four minutes." Tamara: "Thank you." "Don't." She tells him she loves Nixon. "I know. I watched him hand me the ring." One unsaid thing, finally said. At the door he finds her own shawl already laid over the chair he will sleep in. Neither mentions it.
+17. **The glasshouse.** Alice brings Nathaniel the lead sheet. "What did you see up there?" he asks. "You, being brave," she says, and puts it in his hands before he can answer. Married an hour and lied to by everyone, he reads it anyway. The second clause has a Latin twin, and the Lost One never read that one aloud: *Or a daughter of the White may take her mother's place, and the mother walk free.* Alice: "She went because she wanted to."
+18. **The Works, thirteen steps.** Nixon, stripped of his rank an hour ago, alone, in the dark, with the old man's rhyme going round his head. He finds the coal-hatch stair behind the Works and counts down. Thirteen. Behind the last stone is a door, and behind the door is the Orchard: a long low gallery of iron-barred bunks, child-sized shackles, a wall scratched with names and tally marks. Each name is a Hargrave. He finds MARIAN, with a date four years after he was told she died of fever. He sits on her bunk. *Creak.* A wooden spoon is still under the pillow. Over the lintel, in old chalk, are two initials: J.H. Jamie was here first. Nixon understands what he was picked out of, and who kept it from him.
+19. **Newgate.** Josephine visits Eldgard through the bars. "You made a deal with Lambrick," he says. "The girl to the chain, our son kept out of it, and you to Newgate." "Yes." "You sold me." "I sold the man who sold our son." He asks one thing: "Was any of it real?" "Thirty years. All of it." It's the first time in a generation neither of them lies. "Our son lives." Eldgard: "You've killed him. I never finished tuning the Heartglass. The girl can't hold the chain. She'll crack it, and when it breaks they'll need a Harding anyway." Josephine's face: she has made a mistake.
+20. **The core.** Lambrick and Vane watch the Heartglass, Nathaniel's design, close around the Lost One beside her mother. She speaks to Morgana in the language of the White: "I've come to take your place." Morgana understands, and screams. It's grief, not rage.
 
 **Tag**
 
-23. **London.** The scream rises through the Works and into the sky, and it begins to snow, two weeks early. Alice in the glasshouse door. Nixon and his forty on a rooftop. Tamara at a window in her wedding dress. Josephine on the Newgate steps. Eldgard at his cell window, flakes on his face: "First snow." Card: **0 DAYS.**
+21. **London.** The scream rises through the Works and into the sky, and it begins to snow, two weeks early. Alice in the glasshouse door. Nixon and his forty on a rooftop. Tamara at a window in her wedding dress. Josephine on the Newgate steps. Eldgard at his cell window, flakes on his face: "First snow." Card: **0 DAYS.**
 
 ## Episode 9 — "The Snow Confession"
 
@@ -613,7 +629,7 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 15. **The courtyard.** Ajax and the Black Gauntlet, *WHUNK*, drive Nathaniel into the ground. The fist goes up for the killing blow, and Eldgard steps under it. His ribs give way. Alice drives Ajax off with flash after flash, and he retreats inside.
 16. **The Snow Confession, I.** Nathaniel holds his father in the snow. "Nixon's round went through Jamie's shoulder. He would have lived. I held his hand over the lock until the chain drank enough to last to the snow. I spent your brother on forty-nine days."
 17. **The Snow Confession, II.** "Your nightmare was real. You were five. You saw her, and I took it from you." Then, to Nixon, kneeling at his other side: "Cadet line. My spare. I took you from the Orchard at six. Your mother asked after you every day for four years, and I told her you were learning your letters. Forgive me, or don't." Nixon learns in one breath that he didn't kill Jamie, and what he was raised for.
-18. **The Snow Confession, III.** "There was always a way out. Free her, and pay in light. Alistair chose sons. So did I. So did my father, and he chose my sister Otty. She was nineteen. She walked down the stair singing, and Byron held her ribbon. I was eight. They told me Switzerland." He presses the wolf-crest ring into Nathaniel's palm. "Don't be me. The lock opens with what closed it: Harding blood, and a blade that's already in it." He dies. Snow settles on his open eyes and doesn't melt.
+18. **The Snow Confession, III.** "There was always a way out. Free her, and pay in light. Alistair chose sons. So did I. I could have gone down that stair myself, and I raised a boy for it instead. So did my father, and he chose my sister Otty. She was nineteen. She walked down the stair singing, and Byron held her ribbon. I was eight. They told me Switzerland." He presses the wolf-crest ring into Nathaniel's palm. "Don't be me. The lock opens with what closed it: Harding blood, and a blade that's already in it." He dies. Snow settles on his open eyes and doesn't melt.
 19. **The courtyard.** Nathaniel stands. He doesn't put the ring on. He pockets it. From the same pocket he takes Jamie's key on its black ribbon, the one that opens Byron's old Guard stair. Alice is at his side, and Nixon is at the other. They go in.
 20. **The core stair.** Tamara and Nixon hold the stair against Crown troops so the others can get down. Under fire, she says: "If we die, I want it on record I was married for twelve hours." Nixon: "Noted." Flash. Flash.
 21. **The core floor.** Nathaniel and Alice reach the bottom. The Lost One is screaming inside the cracking Heartglass, Morgana is straining at her hooks, Lambrick and Vane are on the gallery, and Josephine is at the lever.
@@ -663,18 +679,18 @@ First three episodes: the promise and the sisters. Episodes 4 and 5 prove the en
 **Act Three**
 
 13. **Tyburn hill, set piece.** Morgana stands over London in the storm, with wolves in a ring around her. Four hundred years of grievance. The young alliance climbs to her: Nathaniel, and Alice carrying the Lost One. Josephine follows.
-14. **Tyburn hill.** The Lost One stands between her mother and the city. "They let you go. Let them go." Morgana: "They bled me for four hundred years." "One of them let you go."
-15. **Tyburn hill.** Morgana: "Then come home, little frost." The Lost One looks at Alice. Alice, who has spent the season holding on, lets go: "Go, if you want to. I'll be all right." She means it.
-16. **Tyburn hill.** The Lost One tells her the last thing: "On the bridge she was still alive. She asked me to go back to Ali. I said yes. Then I wanted to." Miriam's last thought was Alice, after all. The Lost One stays. Morgana accepts, and names her price: "A Harding chained me. A Harding comes with me." Nathaniel steps forward.
-17. **Tyburn hill.** Josephine steps past him. "I'm a Harding. I chose the name." She kisses his forehead. Morgana studies her: "He would spare you least of all." "Yes." To Alice: "Keep him out of the Works." It's the contract she paid for in Episode 2, now given as a blessing. She takes Morgana's hand and they walk into the white. The wolves follow, and the storm goes with them.
+14. **Tyburn hill.** The Lost One stands between her mother and the city, and sings the hymn back to her in the old tongue, the way it was before it had words. The wolves stop circling. "They let you go. Let them go." Morgana: "They bled me for four hundred years." "One of them let you go."
+15. **Tyburn hill.** Morgana: "Then come home, little frost." The Lost One looks at Alice. Alice, who has spent the season holding on, lets go: "Go, if you want to. I'll be all right." She means it. She has done this once before, with a nod, at an altar.
+16. **Tyburn hill.** The Lost One tells her the last thing: "On the bridge she was still alive. She asked me to go back to Ali. I said yes. Then I wanted to." Miriam's last thought was Alice, after all. The Lost One stays. Morgana accepts, and names her price: "A Harding chained me. A Harding comes with me." Nathaniel steps forward, and Alice's hand closes on his sleeve and does not let go.
+17. **Tyburn hill.** Josephine steps past him. "I'm a Harding. I chose the name." He catches her wrist. This is the season's hardest choice, and neither side is the right one. If he goes, Alice loses the man she is half in love with and London gets a head of house who is a ghost in the white. If she goes, he keeps his life by letting his mother pay for it, which is exactly what Eldgard did with Otty. He holds on long enough that the wolves shift their weight. Then he opens his hand. "Go." It is the hardest word he has said, because he is not obeying a rule or running from one: he is the first Harding who lets the volunteer pay with his eyes open, and who will carry that. She kisses his forehead. To Alice: "Keep him out of the Works." It's the contract she paid for in Episode 2, now given as a blessing. She takes Morgana's hand and they walk into the white. The wolves follow, and the storm goes with them.
 18. **Dawn.** The snow stops. London lies dark and white, coal smoke rising from Tamara's fires. Silence, then birds.
-19. **Westminster.** Vane names Nathaniel "the man who put out London" and signs a warrant. Tamara, Lady Harding and heir to Lambrick, puts the Heartglass folio on his desk, with the Crown's seal on the binding order. Nathaniel's pardon is signed within the hour. She now owns the coal, which means she owns the city's heat. Nixon refuses the lantern Vane offers him: "The Guard will keep its own flame."
+19. **Westminster.** Vane names Nathaniel "the man who put out London" and signs a warrant. Tamara, Lady Harding and heir to Lambrick, puts the Heartglass folio on his desk, with the Crown's seal on the binding order. Nixon lays Cole's diary beside it, taken from the dead boy's lap, the burned discharge-log page copied word for word. It clears him on the record, and it costs him the one man who would have said it aloud. Nathaniel's pardon is signed within the hour. She now owns the coal, which means she owns the city's heat. Nixon refuses the lantern Vane offers him: "The Guard will keep its own flame."
 20. **Guard tower roof.** Nixon and Tamara. "Married twelve hours." "Twenty-two, now." Her hand stays on his. Nothing is decided.
 21. **Harding House, cold and dark.** Nathaniel, head of a house with no light, in a city that hates him. Alice: "Your mother hired me to keep you out of the Works." "Did it work?" "No." A small smile, and no kiss. He drops the wolf ring into the dead grate. Alice sets Jamie's ring, the one from Miriam's cord, on the mantel beside it. Neither of them says a word.
 
 **Tag**
 
-22. **Gin Lane, morning.** The Lost One is warm for the first time and sneezes, astonished. Then she's sick in a basin, exactly like Miriam in Episode 7's cold open. Alice laughs, then stops, and puts her hand on her sister's belly. A heartbeat. The White kept Miriam's body frozen in time, and now time runs again. Jamie's child. The Lost One: "Is that me?" Alice: "No. That's someone else."
+22. **Gin Lane, morning.** The Lost One is warm for the first time and sneezes, astonished. Then she's sick in a basin, exactly like Miriam in Episode 7's cold open. Alice laughs, then stops, and puts her hand on her sister's belly. A heartbeat. The cold that held Miriam frozen has gone out of her, and what it was holding has started again. Jamie's child. The Lost One: "Is that me?" Alice: "No. That's someone else."
 
 **Post-credits**
 
@@ -695,7 +711,7 @@ Every setup in the season closes inside it, except the four left open on purpose
 | "Keep him out of the Works" | Ep 2, scene 10 | Ep 10, scene 17, given to Alice as a blessing |
 | Felix: "She was with child" | Ep 2, scene 19 | Ep 7 cold open; Ep 10 tag, the heartbeat |
 | Miriam's red mittens | Ep 1, scene 15; Ep 2, scene 5 | Ep 5: burned on the chain; Ep 7: the wrong memory that gives her away |
-| Cole's diary | Ep 2, scene 4 | Ep 4 (he sees the burned log page), Ep 6 and 7 ("Today, sir") |
+| Cole's diary | Ep 2, scene 4 | Ep 4 (he sees the burned log page), Ep 6 and 7 ("Today, sir"); Ep 10, Westminster (cleared on the record) |
 | The green blood test | Ep 3, cold open | Ep 7 tag (the file); Ep 9 ("Cadet line. My spare") |
 | The Black Gauntlet is Nathaniel's stolen prototype | Ep 4, scene 8 | Ep 9 (it nearly kills him, and kills Eldgard); Ep 10 (Nixon freezes its piston) |
 | Ajax's apple | Ep 3, scene 5 | Ep 9 (the study doorway); Ep 10 (it rolls down the stairs) |
@@ -705,8 +721,8 @@ Every setup in the season closes inside it, except the four left open on purpose
 | Jamie's glass blade left in the lock | Ep 1, scene 12 | Ep 10, scene 5: Nathaniel uses it to open the lock |
 | The Heartglass: "something of her blood" | Ep 6, scene 3 | Ep 7: *Vessel: White-born*; Ep 8 tag; Ep 10, it cracks |
 | The childhood "nightmare" | Ep 1, scene 19 (the weeping in the floor); Ep 8 cold open | Ep 9 Snow Confession, II |
-| The boyhood whistle | Ep 5, scene 10 | Ep 8, scene 11 (*danger*), which saves Tamara |
-| The counting game | Ep 2, scene 2 | Ep 7, scene 20; Ep 9, the rhythm that beats Grise |
+| The boyhood whistle | Ep 5, scene 10 | Ep 8, scene 9 (*danger*), which saves Tamara |
+| The counting game | Ep 2, scene 2 | Ep 7, scene 21; Ep 9, the rhythm that beats Grise |
 | Alistair's choice: "Sons" | Ep 10, cold open | Ep 10, scene 5: Nathaniel chooses light |
 | The wolf-crest ring | Ep 1, cold open | Ep 9 (given to Nathaniel); Ep 10 (opens the lock, then dropped in the grate) |
 | Jamie's Sunday visits to prisoner 1417 | Ep 3, Scotland Yard (the slip) | Ep 4, Newgate cell 1417; Ep 9, Marsh walks out into the first snow |
@@ -714,6 +730,12 @@ Every setup in the season closes inside it, except the four left open on purpose
 | Nixon's mother Marian "died of fever" | Ep 4 ("Marian's chin") | Ep 8 (her name on the wall); Ep 9 Snow Confession; Ep 10 ("the way they grew my mother") |
 | Otty's plaque and Byron's blue ribbon | Ep 2 funeral; Ep 6 cold open | Ep 6, the ribbon in Byron's fist; Ep 9, Eldgard names his sister |
 | Edric, nine, holding Alistair's lantern | Ep 10, cold open | Ep 10, scene 5: Nathaniel ends the line of sons |
+| The Lost One's hand on her belly at Jamie's portrait | Ep 7, the long gallery | Ep 10 tag, the heartbeat; Ep 10, "She asked me to go back to Ali" |
+| Alice's nod to Nathaniel at the altar | Ep 8, the chapel | Ep 10, Tyburn hill: she lets the Lost One go |
+| Jamie's cufflinks and "I held his hand" | Ep 8, the groom's dressing room | Ep 9, Snow Confession I: the half-truth made whole |
+| The Lantern Hymn: Morgana's lullaby under London's church tune | Ep 1 (the Weeping); Ep 2 funeral; Ep 5 core; Ep 8 crypt | Ep 10, Tyburn hill: the Lost One sings it back in the old tongue |
+| J.H. chalk over the Orchard door | Ep 8, the Works, thirteen steps | Ep 9, Snow Confession III: Jamie knew, and ran |
+| The Lost One to Nixon: "Somebody told you your mother was sleeping" | Ep 6, the ambush | Ep 8, Marian's name on the Orchard wall |
 
 **What Season 2 inherits**
 
