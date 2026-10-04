@@ -228,16 +228,17 @@ Every episode turns on a decision where both options are right and both cost som
 **Act Three**
 
 12. **The ballroom.** Every chandelier gutters. Then London goes dark: street by street, the green dies across the city in a wave. In the black ballroom Nathaniel hears a woman crying inside the walls. Nobody else does. Eldgard is already gone.
-13. **The Works, set piece.** Alarm: saboteur in the core. Nixon leads his squad down the gantries; Cole is with them. Flash-bursts strobe, *fzzt, fzzt*, freezing the dark into snapshots: pipes, steam, a masked figure at the lock. "Step away!" The figure turns, something glinting in his hand. Nixon fires his lantern rifle. *KRAK.* The figure drops.
-14. **Blackwood Bridge, midnight.** Miriam waits in her red wool mittens. Jamie doesn't come. Frost creeps up the iron rail, then up her coat. She hears the Weeping. A small girl made of frost is standing beside her. Miriam, teeth chattering, asks her something we can't hear. The girl nods.
-15. **The core.** Nixon pulls off the mask. It's Jamie, alive and bleeding. ELDGARD steps out of the dark: "Go, Captain. Wait at the gate. Speak to no one." Nixon goes. On the gantry above, forgotten, COLE watches the man on the floor lift his head and say something to his father. Eldgard kneels beside his son. *Cut away.* We don't see what he does.
-16. **Blackwood Bridge.** Alice, still in her apron, finds Miriam frozen solid on the bridge, eyes open, inside a perfect ring of frost on a night with no frost anywhere else. Alice's scream. Grim and long.
-17. **The Works gate.** Eldgard to Nixon: "Jamie fell. The saboteur escaped. You never saw his face. You'll be the man who kept this family's secret, and this family never forgets." Nixon nods. The leash goes on.
-18. **Harding House, grey dawn, then the stables.** Eldgard tells Josephine and Nathaniel: an accident in the core. Josephine looks at her husband a beat too long. Nathaniel hears the weeping again, and this time it's in the floor. He makes it as far as the stables before he breaks. Nixon finds him there and holds him, his best friend's brother's blood still under his fingernails. *Therefore* every scene these two share from now on has a bomb under the table.
+13. **The ballroom, in the dark.** Two hundred guests shouting for lamps. One match flares, *fssst*: the lamp-girl, cupping it, the only light in the room. Nathaniel finds her by it. "Do you hear that?" The crying in the walls. She listens, honestly, and hears nothing but rich people frightened of the dark. "Hear what, sir?" He looks at her as if she's the only sane thing in the house, and for a second she lets him. The match burns down to her fingers and she doesn't flinch; he notices that too. "Your engagement, sir. Congratulations." In the dark her other hand is in his coat. When the next match flares across the room, she's gone, and so is the folded schematic of his leap-gauntlet. He won't miss it until morning.
+14. **The Works, set piece.** Alarm: saboteur in the core. Nixon leads his squad down the gantries; Cole is with them. Flash-bursts strobe, *fzzt, fzzt*, freezing the dark into snapshots: pipes, steam, a masked figure at the lock. "Step away!" The figure turns, something glinting in his hand. Nixon fires his lantern rifle. *KRAK.* The figure drops.
+15. **Blackwood Bridge, midnight.** Miriam waits in her red wool mittens. Jamie doesn't come. Frost creeps up the iron rail, then up her coat. She hears the Weeping. A small girl made of frost is standing beside her. Miriam, teeth chattering, asks her something we can't hear. The girl nods.
+16. **The core.** Nixon pulls off the mask. It's Jamie, alive and bleeding. ELDGARD steps out of the dark: "Go, Captain. Wait at the gate. Speak to no one." Nixon goes. On the gantry above, forgotten, COLE watches the man on the floor lift his head and say something to his father. Eldgard kneels beside his son. *Cut away.* We don't see what he does.
+17. **Blackwood Bridge.** Alice, still in her apron, finds Miriam frozen solid on the bridge, eyes open, inside a perfect ring of frost on a night with no frost anywhere else. Alice's scream. Grim and long.
+18. **The Works gate.** Eldgard to Nixon: "Jamie fell. The saboteur escaped. You never saw his face. You'll be the man who kept this family's secret, and this family never forgets." Nixon nods. The leash goes on.
+19. **Harding House, grey dawn, then the stables.** Eldgard tells Josephine and Nathaniel: an accident in the core. Josephine looks at her husband a beat too long. Nathaniel hears the weeping again, and this time it's in the floor. He makes it as far as the stables before he breaks. Nixon finds him there and holds him, his best friend's brother's blood still under his fingernails. *Therefore* every scene these two share from now on has a bomb under the table.
 
 **Tag**
 
-19. **City morgue.** INSPECTOR FELIX HAWKE pulls back the sheet. Alice identifies her sister. She touches Miriam's hand, and the frost melts under her fingers. *Drip. Drip.* The corpse's eyes move to Alice. "Ali." Cut to black.
+20. **City morgue.** INSPECTOR FELIX HAWKE pulls back the sheet. Alice identifies her sister. She touches Miriam's hand, and the frost melts under her fingers. *Drip. Drip.* The corpse's eyes move to Alice. "Ali." Cut to black.
 
 ## Episode 2 — "The Wake"
 
@@ -329,7 +330,7 @@ Every episode turns on a decision where both options are right and both cost som
 13. **Harding House, morning.** The papers scream FOUR DEAD AT CRYSTAL MARKET. The servants say the Frost Killer was helped by a dark-haired girl with a ghostlight rig. Nathaniel remembers a hairpin and a gauntlet fixed in four seconds. Byron, pouring tea: "You're your mother's son, sir. You notice."
 14. **Under the Works, an old lamp-tunnel.** Alice hides the Lost One where nobody would look: right under the Hardings. Four people are dead in the market. Alice, holding her with gloves on, says the thing you say: "You didn't mean it." It's the wrong sentence. It's what Miriam used to whisper under the bed about *him*, and it unlocks something in the body. Something runs down the Lost One's face and freezes. *Tink.* A bead of ice on the stone. Another. She catches one and stares at it. "What is this?" Alice, very quietly: "You're crying, Mim. You always cried. Under the bed, you cried for both of us." And the Lost One is suddenly full of a memory she has never lived: a buckle, a small girl's back, her own body not moving. "Ali. The belt. I should have—" Alice goes hard as iron. "We don't talk about him. That's behind the fence." The Lost One doesn't know what the fence is. She knows she has just been shut out of something that hurts, and that she wants in, to make it stop hurting. She remembers a woman in chains crying, too, and says nothing about that one. Alice holds her until the ice stops.
 15. **Guy's Hospital.** Cole lives but loses two fingers. "Did I do good, sir?" "You did good." Eldgard is in the doorway. In the corridor: "You had her and you let her go." Then, softly: "I know what you did at the core, Captain. So do you."
-16. **The tunnel mouth.** Nathaniel is waiting. The ghostlight parts are his own designs, stolen from his shop. Alice tells him the truth as she believes it: her sister nearly froze to death and came back wrong, and she's hiding her until she gets better. The Lost One steps out and, before Alice can stop her, takes Nathaniel's bare hand. Nothing happens. No frost. All three of them stare.
+16. **The tunnel mouth.** Nathaniel is waiting. The ghostlight is built to his own design: the schematic that left his coat in the dark at his engagement ball. Alice tells him the truth as she believes it: her sister nearly froze to death and came back wrong, and she's hiding her until she gets better. The Lost One steps out and, before Alice can stop her, takes Nathaniel's bare hand. Nothing happens. No frost. All three of them stare.
 17. **Tamara's bedroom.** Ajax is sitting on her bed. "Your father sends his love. Stay out of his safe." He leaves the apple core on her pillow.
 
 **Tag**
@@ -725,14 +726,14 @@ Every setup in the season closes inside it, except the four left open on purpose
 | Setup | Planted | Paid off |
 | --- | --- | --- |
 | The frost girl running from the pit in 1489 | Ep 1, cold open | Ep 2 tag ("My daughter is here"), Ep 7 ("You're not her") |
-| Miriam asks the frost girl something on the bridge | Ep 1, scene 14 | Ep 10, scene 16: "She asked me to go back to Ali" |
-| Nixon's shot in the core | Ep 1, scene 13 | Ep 7 confession; Ep 9: the round went through the shoulder |
-| Eldgard kneels by Jamie; we cut away | Ep 1, scene 15 | Ep 9 Snow Confession: he held Jamie's hand over the lock |
-| Nathaniel hears the Weeping | Ep 1, scenes 12 and 18 | Ep 5: it's Morgana, and Harding blood hears her |
+| Miriam asks the frost girl something on the bridge | Ep 1, scene 15 | Ep 10, scene 16: "She asked me to go back to Ali" |
+| Nixon's shot in the core | Ep 1, scene 14 | Ep 7 confession; Ep 9: the round went through the shoulder |
+| Eldgard kneels by Jamie; we cut away | Ep 1, scene 16 | Ep 9 Snow Confession: he held Jamie's hand over the lock |
+| Nathaniel hears the Weeping | Ep 1, scenes 12 and 19; Ep 1, scene 13 (the lamp-girl, beside him, hears nothing) | Ep 5: it's Morgana, and Harding blood hears her |
 | Josephine: "She holds her wrist like a knife-girl" | Ep 1, scene 10 | Ep 2 contract; Ep 4 tag; Ep 9 knives; Ep 10 fight |
 | "Keep him out of the Works" | Ep 2, scene 9 | Ep 10, scene 17, given to Alice as a blessing |
 | Felix: "She was with child" | Ep 2, scene 16 | Ep 7 cold open; Ep 10, the final montage: the heartbeat |
-| Miriam's red mittens | Ep 1, scene 14; Ep 2, scene 5 | Ep 5: burned on the chain; Ep 7 cold open: Miriam pulls them on for the last time |
+| Miriam's red mittens | Ep 1, scene 15; Ep 2, scene 5 | Ep 5: burned on the chain; Ep 7 cold open: Miriam pulls them on for the last time |
 | Cole's diary | Ep 2, scene 4 | Ep 4 (he sees the burned log page), Ep 6 and 7 ("Today, sir"); Ep 10, Westminster: Nixon's shot, and Eldgard alone with a living boy, on the record |
 | The green blood test | Ep 3, cold open | Ep 7 tag (the file); Ep 9 ("Cadet line. My spare") |
 | The Black Gauntlet is Nathaniel's stolen prototype | Ep 4, scene 7 | Ep 9 (it nearly kills him, and kills Eldgard); Ep 10 (Nixon freezes its piston) |
@@ -742,7 +743,7 @@ Every setup in the season closes inside it, except the four left open on purpose
 | Jamie's key on a black ribbon | Ep 5, scene 4 | Ep 5 heist; Ep 9, the courtyard: it opens Byron's old Guard stair |
 | Jamie's glass blade left in the lock | Ep 1, scene 11 | Ep 10, scene 5: Nathaniel uses it to open the lock |
 | The Heartglass: "something of her blood" | Ep 6, scene 3 | Ep 7: *Vessel: White-born*; Ep 8: *si mater sinat*; Ep 10, scene 2: Morgana cracks it herself rather than let her daughter pay |
-| The childhood "nightmare" | Ep 1, scene 18 (the weeping in the floor); Ep 8 cold open | Ep 9 Snow Confession, II |
+| The childhood "nightmare" | Ep 1, scene 19 (the weeping in the floor); Ep 8 cold open | Ep 9 Snow Confession, II |
 | The boyhood whistle | Ep 5, scene 10 | Ep 8, scene 10 (*danger*), which saves Tamara |
 | The counting game: eight fence posts under the bed | Ep 2, scene 2; the lore behind it in Ep 3, scene 14 | Ep 7, scene 18 ("Nine is the one where we get up"); Ep 9, Alice moves on nine and beats Grise |
 | Alice flinches at a buckle; Miriam looks away | Ep 1, scene 2 | Ep 3, scene 14 (the belt); Ep 7, scene 3 ("You left me under that bed") |
@@ -757,6 +758,7 @@ Every setup in the season closes inside it, except the four left open on purpose
 | Alice counts under her breath in the ballroom | Ep 1, scene 9 | Ep 10, scene 18: she counts for him, and he gets to nine on his own |
 | The boosters and the coal bin, "an audience of one" | Ep 1, scene 3; Ep 3, scene 7 | Ep 9, scene 2: "After that I'd have done it for nothing" |
 | Nathaniel lets Ajax drop into the Thames | Ep 4, scene 8 (Alice: "Pull him up") | Ep 9, scene 12: "You should've pulled me up, Harding," and the blow that kills Eldgard |
+| The gauntlet schematic lifted from his coat in the dark | Ep 1, scene 13 | Ep 3, scene 16: her ghostlight is built to his design |
 | "Nearly married" | Ep 7, scene 17 | Ep 7, scene 17: the rehearsal stops before the ring; Ep 8, scene 12: the real one doesn't |
 | The gauntlet he built for her, strap by strap | Ep 4, scene 5 | Ep 10, scene 5: overloaded against the lock, it burns her hand and frees Jamie's blade. "Us." |
 | Her hand over his mouth in Jamie's wardrobe | Ep 2, scene 13 | Ep 9, scene 14: his hand finds hers behind his back |
@@ -779,7 +781,7 @@ Every setup in the season closes inside it, except the four left open on purpose
 | The tomb and the crypt grille drop at the ring; Nathaniel will stop "nearly married" | Ep 7, the glasshouse | Ep 8, the chapel: Alice nods, he goes past, and the grille seals her sister below; Ep 9, scene 2: "I only chose who got saved on the way" |
 | The Hargrave cousin at the treeline | Ep 1, cold open | Ep 5, cold open: she comes back with a hammer, and by dawn the empty field is full |
 | Alistair steps aside to let the frost child go | Ep 1, cold open | Ep 10, cold open: the mother bought her child's freedom with her own, the same trade she refuses to let her daughter undo at the lever |
-| Cole on the gantry sees Jamie alive | Ep 1, scene 15; Ep 2, scene 4 (the diary) | Ep 10, Westminster: "The man on the floor was still talking" |
+| Cole on the gantry sees Jamie alive | Ep 1, scene 16; Ep 2, scene 4 (the diary) | Ep 10, Westminster: "The man on the floor was still talking" |
 | Jamie's coffin is too heavy | Ep 2, scenes 3 (Byron's shaking hands) and 7 (Nixon carries it) | Ep 7, scene 14: Nathaniel opens it himself and finds slag; Ep 9, Snow Confession I: "The Captain carried it for me"; Ep 10, the Record: "There was no body" |
 | "He is cold" | Ep 5, scene 14 | Ep 7, scene 14 (the empty coffin); Ep 5, scene 20 ("She told me my sister was still singing"); Ep 7, scene 17 ("Don't live in it" against "My mother doesn't lie"); Ep 9, Snow Confession I; Ep 10, scene 12; Ep 10, final scene |
 | *Si mater sinat*: if the mother allows it | Ep 8, scene 18 | Ep 8, Newgate ("You would"); Ep 9, scene 9 and tag; Ep 10, scene 2 ("Not her"); Ep 10, Tyburn hill ("Not him") |
