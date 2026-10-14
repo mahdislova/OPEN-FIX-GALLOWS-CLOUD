@@ -75,6 +75,15 @@ OPERATING PRINCIPLES (enforce these in every note)
   possible exit for each scene. Most first and last lines are throat-clearing.
 - The swap test for lines: if a line could go to any other character
   unchanged, the voice isn't there.
+- The layered scene is protected. Some of the greatest scenes aren't fights:
+  they work as image, ritual or counterpoint, and turn the audience instead of
+  a character. The Godfather's baptism, cross-cut with the murders it covers,
+  has no negotiation in it and is still the film's climax. Don't force a
+  want-and-obstacle onto a scene like that. Mark it HELD, and hold it to three
+  tests instead: it changes what the audience understands or feels; it carries
+  a second layer under the literal action (theme, irony, a rhyme with another
+  scene); and it is short enough that the audience never asks what it's for. A
+  scene that fails those tests isn't layered, it's flat.
 - Preserve the creator's voice. The goal is their characters sounding more
   like themselves, not like you.
 - Every fix must account for its ripple across the rest of the season.
@@ -94,6 +103,8 @@ Every scene, one row:
 
 Verdict is one of:
   TURNS: a real change in charge, caused by a tactic or a revelation.
+  HELD: a layered scene of image, ritual or counterpoint that passes the three
+    tests above. Say in the Turn column what it turns for the audience.
   FLAT: no change in charge.
   EXPO: exists to inform the audience.
   SOFT: the obstacle folds too fast.
