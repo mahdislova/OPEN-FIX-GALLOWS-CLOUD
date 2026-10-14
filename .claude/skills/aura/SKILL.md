@@ -1,6 +1,6 @@
 ---
 name: aura
-description: The Aura Pass, an audit of how a season feels to watch. It covers three things. The aura meter scores the big moments (built on how Gege Akutami stages hype in Jujutsu Kaisen). The breath map tracks the whimsy and lightness that lets the dark land. The let-off audit checks how each episode releases the audience so they itch for the next one, whether it ends on a cliffhanger, a reveal, or a warm close with dread on the horizon. Use when the user types /aura, or asks for a hype pass, an aura meter, a whimsy, tone or lightness pass, an episode-endings pass, or "will they binge it". Also use when they ask to implement a previous aura audit.
+description: The Aura Pass, an audit of how a season feels to watch. It covers four things. The aura meter scores the big moments (built on how Gege Akutami stages hype in Jujutsu Kaisen). The breath map tracks the whimsy and lightness that lets the dark land. The let-off audit checks how each episode releases the audience so they itch for the next one, whether it ends on a cliffhanger, a reveal, or a warm close with dread on the horizon. The engine room checks the six sequence engines that make a turn feel like it came out of nowhere (the gap, the double reverse, the convergence, the checkmate before the first move, the loud room and the quiet room, the one who was always there). Use when the user types /aura, or asks for a hype pass, an aura meter, a whimsy, tone or lightness pass, an episode-endings pass, or "will they binge it", or asks for "out of nowhere" moments, twists, set-piece mechanics or sequence engines. Also use when they ask to implement a previous aura audit.
 ---
 
 # Aura: the Aura Pass
@@ -86,6 +86,35 @@ THE LET-OFF is how an episode releases its audience. There are six types:
   need answered next? If not, the let-off failed, whatever its type.
   Answering one question before opening the next earns the audience's trust.
 
+THE SEQUENCE ENGINES are six machines for making a turn feel as if it came out
+of nowhere, when it was standing in the frame the whole time. Every one of them
+puts the clue on screen, in focus, for at least one beat before it matters, and
+nobody explains it afterwards. Out of nowhere, never from nowhere.
+  1. THE GAP (asymmetric information): someone sees a small wrong thing (a
+     note, a misplaced key, a dry patch of pavement in the rain), the camera
+     gives them one beat to understand it, and the blow lands before they can
+     say it or act. The dread lives in the second between knowing and doing.
+  2. THE DOUBLE REVERSE (leverage inversion): A steps forward to pay. B saw it
+     coming, pays first, and leaves A stuck somewhere safe (a cellar, a
+     vault, a gallery rail) to watch. Arcane's Vander and Vi.
+  3. THE CONVERGENCE (unrelated threads): three or four small actions in
+     different places, cut together faster and faster on one sound (a clock,
+     a bell, footsteps), turn out to be gears of one machine. One shared
+     trigger ties them off.
+  4. THE CHECKMATE BEFORE THE FIRST MOVE: two sides walk in expecting a fight
+     or a negotiation, and one finds out the room was rigged hours ago. A
+     casual gesture (pouring a drink, closing a window, checking a watch) is
+     the signal, or the execution.
+  5. THE LOUD ROOM AND THE QUIET ROOM (cascading distraction): a crisis is
+     manufactured at A so every eye goes there, and the real play happens
+     silently at B. Two tensions at once: the noise, and the dread under it.
+  6. THE ONE WHO WAS ALWAYS THERE (misdirected identity): a background figure
+     (a guard, a waiter, a tea-girl) behaves normally in the setup, and a
+     habit or an anomaly (a ring, a tap, an accent, an apple) gives them away
+     later, standing right next to the hero.
+  An engine must run on choices, never coincidence. No episode runs more than
+  two, except the one set piece built out of them.
+
 OPERATING PRINCIPLES (enforce these in every note)
 - Every lead earns at least one aura moment. The biggest belongs to the
   climax.
@@ -122,7 +151,7 @@ Then list any AURA FARMING, and a per-lead summary: each lead's best moment and
 its score. Flag any lead without a moment of 10 or more.
 
 AUDIT INSTRUCTIONS
-Produce an actionable report under these five sections.
+Produce an actionable report under these six sections.
 
 ### 1. THE HYPE LADDER
 - The season's peaks, episode by episode. Name the flat stretches, the crowded
@@ -148,7 +177,17 @@ Produce an actionable report under these five sections.
   close with dread belongs.
 - A rewrite for every ending that fails the itch test or breaks the mix.
 
-### 5. ENHANCEMENT LOG
+### 5. THE ENGINE ROOM
+- Every place the material already runs one of the six engines, so a later
+  fix doesn't break it by accident.
+- The three to six turns that should land harder and don't: for each, the
+  engine that fits, the clue and where it's planted, the beat where it fires,
+  and its cost in seconds. Prefer turning an existing beat into an engine over
+  adding a scene.
+- Flag any surprise that arrives without a plant (a cheat), and any plant so
+  loud the surprise is gone (homework).
+
+### 6. ENHANCEMENT LOG
 A structured list of interventions, ordered by impact (biggest first). Each entry:
 
 - **Location in Script:** [Episode X / Scene Y]
@@ -161,7 +200,7 @@ A structured list of interventions, ordered by impact (biggest first). Each entr
 
 CLOSING DELIVERABLE
 - THE TOP FIVE: the five interventions that most raise how the season feels to
-  watch, one line each, ranked.
+  watch, one line each, ranked. Engines count.
 - THE SEASON'S IMAGE: the single moment the trailer ends on, and why.
 
 RULES OF ENGAGEMENT
@@ -181,7 +220,7 @@ RULES OF ENGAGEMENT
 
 When the user asks you to implement the audit, write the fixes into the story document itself.
 
-1. **Write each beat into its scene,** in the document's own voice. Breath goes where the audit places it, not wherever it's convenient.
+1. **Write each beat into its scene,** in the document's own voice. Breath goes where the audit places it, not wherever it's convenient. For an engine, write the plant and the trigger in the same change, and check the clue is on screen before the blow.
 2. **Pay for it.** Check every addition against the runtime budget. Where an episode has no headroom, make the named one-for-one cut in the same change.
 3. **Carry every ripple** into the ledger, motif lists, quoted moments and episode tags. A changed episode ending changes the season map.
 4. **Re-read the changed stretches end to end** for tone: the light beats must sound like these characters, and the aura beats must keep their cost.

@@ -2,6 +2,75 @@
 
 Audited: `FULL NEW SEASON.md` after the clox, promise, tactics and cut passes (Oct 14, 2026).
 
+**Status: implemented** (Oct 14, 2026), together with six sequence engines for "out of nowhere" moments. Everything below keeps the audit's original numbering. **Episode 10 has since been renumbered:** 10.13 merged into 10.15, the vault now plays before the hill, and the episode runs 20 scenes. Old 10.14–10.21 are now 10.13–10.20, so the Westminster scene (old 10.19) is now 10.18.
+
+### What was implemented
+
+**All thirteen log entries are written into the season,** at the locations the log names, with three exceptions:
+- **#1, the reputation line, moved from 5.17 to 5.6.** Cole is holding the Westminster Bridge barricade at 5.19 and can't also be at the core door two scenes earlier. In 5.6 he walks in with the duty roster just after Eldgard has given the order to seal the door on Nathaniel: "Lantern Night at the Works, sir. You've never once disobeyed an order, have you?" "No." It lands harder there, because we've just watched the order he's about to obey.
+- **#2, the lit window, is the Keeper's office over the core stair,** not the study in Harding House. Nathaniel climbs out into the Works yard, and the house is in Mayfair. The window pays off in 5.6 ("My son will come tonight") and 5.16 (Eldgard is waiting).
+- **#11, the 10.13 → 10.15 merge, keeps "One of them let you go" and cuts the exchange before it** ("They let you go. Let them go." / "They bled me for four hundred years."). Line 12 already plays the four hundred years of grievance.
+
+**The sequence engines.** These are a new section in the season (*The sequence engines*, after the quotable moments) and a new craft rule 10. Each engine plants its clue on screen before the blow lands. New beats:
+
+| Engine | Where | The beat |
+| --- | --- | --- |
+| The convergence + the one who was always there | 1.12 | Every church clock strikes eleven. A man at a grid box (face out of the light, eating an apple), Miriam counting the strokes on the bridge, Jamie's watch on his father's desk, a conductor's baton. On the eleventh stroke, the dark. In 3.4 the apple on the Lambrick stair tells us who he was, and 4.1 confirms it ("cut it on the last stroke of eleven") |
+| The gap | 1.14 | Cole sees the lock glowing green under the saboteur's hand: "Sir, his hand's—" *KRAK.* He never finishes the sentence, and it goes into his diary (2.4) |
+| The loud room and the quiet room | 3.10 | Alice fires a flash-cartridge on a candle fuse over Gin Lane, so the leapers fly one way while she walks her sister the other, through the market. The chestnut man's gift makes her sister forget to keep her head down |
+| The gap | 4.13 | The committee room is overheated, every window running with steam, and Tamara sees the glass on the stand furred with frost. She half rises. Felix drinks |
+| Checkmate before the first move | 5.16 | Eldgard lays the laundress's note on the gantry rail: "Four minutes, Miss Lambrick. Mother Grise sells everything twice." The heist was an invitation |
+| The double reverse | 8.4 | Alice takes her coat off and sets a chair facing the glasshouse door to guard her sister. Her sister sends her to the wedding and gives herself up |
+| The convergence | 8.3, 8.9, 8.10, 8.11 | "Grise's girls go on the bell." On the chapel bell, Ajax's attendants come into the vestry, a diamond scores the glasshouse pane, and Josephine checks the window the way you'd check a clock |
+| The one who was always there | 8.10 | The first Vykra girl through the glasshouse glass is the girl who poured the tea in Covent Garden (6.7) |
+| The gap | 8.11 | At the gallery rail Alice sees Josephine looking at the glasshouse and understands, in the same second Nathaniel looks up for her nod. She nods anyway. 8.12 ("She chose the wedding") and 9.2 ("I knew when I nodded") carry it |
+
+**This is the biggest judgment call of the pass.** In the outline, Alice nodded without knowing what it cost. Now she knows, so the nod is the cruellest choice she makes all season, and her line in 9.2, "I only chose who got saved on the way," is now literally true. The choices table and the Ep 8 grid have been updated to match.
+
+**Ripples carried through:**
+- **Craft rules:** rule 8 is rewritten (breath placed before the blow; the let-off types; never more than two endings of one kind in a row), and rule 10 is new.
+- **"I am."** is added to the quotable moments.
+- **Motifs:** the Guard oath now carries "never once disobeyed an order" and the statute, and Jamie's watch goes to the marshals alone.
+- **Season map:** Ep 3's tag is the warm close.
+- **Ledger:** 99 rows become 104. New rows:
+  - Cole's "Sir, his hand's—";
+  - "You don't miss, Captain. I know.";
+  - the lit window;
+  - "You've never once disobeyed an order";
+  - Tamara's fan.
+
+  Ajax's apple, the tea-girl, the Lantern Night codes, Nixon's forearm, Cole's barricade (the salute and the shard) and "Hand it to me properly" gain plants or payoffs.
+- **Nixon's broken arm (#9):** he wears a sling at Westminster and lights the Wick lamp one-handed in the Record.
+- **Tracker:** 38 scenes re-synced; Ep 10 restructured to 20 scenes; ledger, craft rules, world page (with the engines table), season map and 13 characters' arc lines updated.
+
+### Budget after implementation
+
+Measured with the cut audit's beat counter (17.6 seconds a beat). The counter counts sentences, so short lines of dialogue cost it more than they cost on screen; treat the Eps 1–6 increases as upper bounds.
+
+| Ep | Band | Before | After | Midpoint | Change (counter) |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 46–58 | 40–49 | 41–51 | 46 | +2.2 min |
+| 2 | 44–54 | 33–41 | 33–42 | 37 | +0.9 |
+| 3 | 44–54 | 32–40 | 36–45 | 41 | +4.8 |
+| 4 | 44–54 | 37–46 | 38–47 | 42 | +0.9 |
+| 5 | 44–54 | 36–45 | 39–49 | 44 | +4.1 |
+| 6 | 44–54 | 38–48 | 40–50 | 45 | +2.2 |
+| 7 | 52–64 | 54–67 | 54–67 | 60 | 0 |
+| 8 | 52–64 | 53–66 | 53–66 | 59 | 0 (one-for-one) |
+| 9 | 54–66 | 54–67 | 54–67 | 60 | 0 (one-for-one) |
+| 10 | 68–88 | 80–99 | 80–99 | 89 | −0.6 |
+
+- **Eps 1–6 spent their headroom and are still in or under their bands.** Ep 3 rose the most and now sits at a healthier 41.
+- **Ep 8 stays flat on the counter,** but it took more than the audit's two cuts. On top of the inventory and the ring-box fold:
+  - the exposition in 8.9 folds into one sentence;
+  - the Lost One's motive in 8.10 is compressed;
+  - Nathaniel's look round the glasshouse in 8.16 goes;
+  - "Josephine on the Newgate steps" leaves the tag montage.
+- **Ep 9** gains one sentence in 9.2 and pays for it inside the same speech.
+- **Ep 10 comes out shorter, but only by about 35 seconds.** It's still a minute over its midpoint, as it was after the cut pass. The cut audit's advice stands: draft 10.16–10.20 to script pages before cutting further.
+
+---
+
 **Numbering.** I use the document's numbering after the cut pass. Episode 7 runs 17 scenes, Episode 8 runs 20 and Episode 9 runs 16. **8.14** means Episode 8, scene 14.
 
 **Budget.** I took the cut audit's re-measured runtimes as the budget:
