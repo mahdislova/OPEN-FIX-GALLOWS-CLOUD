@@ -2,6 +2,29 @@
 
 Audited: `FULL NEW SEASON.md` after the clox, promise and tactics passes (Oct 14, 2026).
 
+**Status: implemented, on the streaming tiers.** The whole cut list is in `FULL NEW SEASON.md`:
+- Craft rule 6 is rewritten to the runtime tiers.
+- Three scenes are folded: 7.9 into 7.10, 8.8 into 8.7, and 9.4 into 9.11. Episodes 7, 8 and 9 now run 17, 20 and 16 scenes, and every reference after them is renumbered.
+- The ledger goes from 119 rows to 99.
+- The motif and theme tables are updated, and the tracker is synced.
+
+**The new budget, re-measured after the cuts** at the same 17.6 seconds per beat:
+
+| Ep | Band | Before | After | Midpoint | Verdict |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 46–58 | 39–49 | 39–49 | 44 | Under: headroom |
+| 2 | 44–54 | 32–41 | 33–41 | 37 | Under: headroom |
+| 3 | 44–54 | 32–41 | 32–40 | 36 | Under: headroom |
+| 4 | 44–54 | 37–46 | 37–46 | 41 | Under: headroom |
+| 5 | 44–54 | 36–45 | 36–45 | 40 | Under: headroom |
+| 6 | 44–54 | 39–48 | 38–48 | 43 | Under: headroom |
+| 7 | 52–64 | 58–73 | 54–67 | 60 | In |
+| 8 | 52–64 | 53–66 | 53–66 | 59 | In |
+| 9 | 54–66 | 58–72 | 54–67 | 60 | In |
+| 10 | 68–88 | 85–106 | 80–99 | 89 | **Over by 1 at the midpoint** |
+
+Episode 10 saved about 7 minutes, not the predicted 10, because moving the handkerchief and Cole's last line added text where they landed. As planned, confirm it with a script draft of 10.17–10.21 before cutting further. Episodes 1–6 sit under their bands, and that room is for `/aura`.
+
 **Numbering.** I use the document's own numbering. **10.19** means Episode 10, scene 19. "Rec." is the Record montage (10.20).
 
 **How the runtime was measured.** The document's own rule says each episode runs about 44 minutes. I used Episodes 1–4, the least-revised episodes, to set a rate of about 17.6 seconds per beat: one sentence of action is one beat, a line of quoted dialogue counts as half, and each montage row counts as two and a half. I then applied that rate to every scene. The result is the **top** of a range. The bottom, at 0.8× the top, allows for the estimator over-pricing long dialogue scenes and for writer's commentary that never reaches the screen. Commentary turned out to be only 3–7% of each episode, so the later episodes really do hold more material, not just more words.
