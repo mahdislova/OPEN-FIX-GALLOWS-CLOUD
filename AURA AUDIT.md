@@ -409,3 +409,34 @@ Ordered by impact.
 ## The Season's Image
 
 **"Us." (10.5).** It's the only moment that scores 16. In one shot: Alice's palm on the overloaded gauntlet, the glove burning, Nathaniel's hand on the blade, and then the green dying across London, street by street. The trailer cuts to black on the word, before the light goes out.
+
+---
+
+## Follow-up: outside review (Oct 14, 2026)
+
+Another model ran a clox audit against the pre-aura commit (`06bdcd0`). I checked each note against the current text, kept seven ideas (some in a different form), declined two, and implemented the seven. Scene numbers below are current.
+
+**Taken:**
+
+| Where | The fix | Why this version |
+| --- | --- | --- |
+| 4.9, the crane | Ajax: "A dark city and a coach on Blackwood Bridge. Seats for two, not three. He wasn't dying for you. He was leaving you the bill." Nathaniel lets go with the stove in 4.6 pulling at his hand | After "I never touched him," the drop needed a wound behind it. Now Ajax spits on the one warm thing anyone has told Nathaniel about his brother |
+| 3.11, the market | Alice shoves her sister under the chestnut stall: "Count the posts. Don't move till eight." In the dark, the body panics without knowing why. At six, she screams | Alice's protection-as-control causes the four deaths. The chestnut stays the giveaway (3.10), and the memory still gets its words in 3.14, not before |
+| 5.18, the core door | He takes Alice's hand through the blown door, then lets go of it himself. "Get her out. I need to hear the rest." | The reviewer's flood-gate machinery was new world tech the season doesn't need. One hand does the same work, and it rhymes with the door Nixon sealed |
+| 8.6, the chapel door | Tamara lets Josephine see the needle: "I know who, Mother." "Then you know what I'll do for mine. Be his wife." | The reviewer had Josephine stand up at the vows instead. That breaks Vane's self-interested ruling and the aura pass's beat, where Josephine is watching the window. A truce costs one exchange |
+| 9.15, the core stair | "You knew what Reserve meant." "Since the infirmary." Then "married for twelve hours" | The reviewer put this in the vestry, but Nixon has to hear what he was bred for from the man who bred him (9.14). The stair is minutes later, and her letting go of his sleeve in 10.4 becomes her answer |
+| 10.15, Tyburn hill | When Morgana asks for a Harding, Alice looks at her sister's coat and keeps her mouth shut | Rule 3 gives the lock a hard edge: the child is Harding blood, and saying it on that hill would hand Morgana one |
+| 10.13, the vault | "Mother hated the green." | Six words, used as a weapon. He finishes the thought himself |
+
+**Declined:**
+- **Nathaniel leaves slag on Nixon's parapet (Ep 7).** It breaks "hasn't spoken to [him] since the roof" (8.7) and "Stand where I can see you" as their first words since the roof. Nixon learns what the coffin held at the Snow Confession (9.13), and should.
+- **"Mind the third stair" as a Vykra code phrase.** Its logic runs backwards (if Alice avoids the creaking stair, Josephine can't hear her), and it would tell Alice that Josephine is Vykra episodes too early.
+
+**Budget:**
+- Eps 3–5 spend spare time: about +0.9, +1.5 and +0.4 minutes on the counter, all still inside their bands.
+- Eps 8, 9 and 10 come out flat:
+  - Ep 8 lost a line of commentary at the chapel door.
+  - Ep 9 lost "Whimsy before the storm" and a line of commentary at the Snow Confession.
+  - Ep 10 folded a line of commentary at the lock.
+
+**Also fixed:** Tamara's Ep 10 arc line in the tracker still listed "the folio… and the needle" at Westminster, which the cut pass had removed from the season.
