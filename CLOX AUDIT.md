@@ -2,6 +2,8 @@
 
 Audited: `FULL NEW SEASON.md` at the polish pass (f7b373e, rev. Oct 10).
 
+**Status: implemented.** All nineteen log entries are written into `FULL NEW SEASON.md` in the Oct 14 clox pass, along with one further plant: at 5.14 the Lost One steps between Alice and her own mother. The pass also adds craft rule 9 and a new section, *What each of them is holding shut*. Both questions below were settled on the preferred answers: the Lost One doesn't know she's carrying, and "Hoping" is Eldgard's line. The season tracker is synced.
+
 **Numbering.** I use the document's own numbering. **6.12** means Episode 6, scene 12. **CO** is a cold open. **Rec.** is the Record montage (10.20). **Fin.** is the final scene (10.21).
 
 **Verdict.** The sisters' clox is the best-engineered thing in the season. Touch it only to sharpen the last mile. The trouble sits in three places:
