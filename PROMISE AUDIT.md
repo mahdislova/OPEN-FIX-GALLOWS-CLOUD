@@ -2,6 +2,8 @@
 
 Audited: `FULL NEW SEASON.md` after the clox pass (Oct 14, 2026).
 
+**Status: implemented.** All fifteen log entries are written into `FULL NEW SEASON.md`, on the preferred answer to the open question: the audience learns at 2.9 that Nathaniel is next to be spent. The ledger gains seven rows and seven existing rows are updated, and the season tracker is synced.
+
 **Numbering.** I use the document's own numbering. **5.16** means Episode 5, scene 16. **CO** is a cold open. **Rec.** is the Record montage (10.20). **Fin.** is the final scene (10.21). "pre" means a character knew before the series begins.
 
 **Verdict.** This season keeps its contract. The pilot promises a city warmed by someone in the dark, a family that spends its children, and two sisters split by the only thing strong enough to split them, and the finale pays all three on screen, at a cost. The ledger is unusually honest: most of its 107 rows hold up when checked against the scenes.
