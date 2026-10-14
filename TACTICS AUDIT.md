@@ -2,6 +2,8 @@
 
 Audited: `FULL NEW SEASON.md` after the clox and promise passes (Oct 14, 2026).
 
+**Status: implemented.** All ten log entries and the full cut list are written into `FULL NEW SEASON.md`. Scene 9.17 is folded into the Episode 9 tag, which is now 9.17, so Episode 9 runs 17 scenes. The twelve held scenes are untouched. The ledger gains six rows and one quote is updated, and the season tracker is synced.
+
 **Numbering.** I use the document's own numbering. **2.13** means Episode 2, scene 13. **CO** is a cold open.
 
 **What this pass protects.** A pure Mamet pass would flatten the scenes that make this season what it is. So scenes that work as image, ritual or counterpoint are marked **HELD** rather than forced into a fight. The cold opens, the rehearsal wedding, the oath, the Record and the dark city are among them. A held scene is excused from "who wants what" only if:
