@@ -49,15 +49,16 @@ AJAX FINK, 35, sits on a crate eating an apple. *Crnch.* He has good teeth, a ba
 
 > **DE GRAAF:** Forty a pound.
 > **AJAX:** Ninety.
-> **DE GRAAF:** For *stamped* glass, Antwerp pays sixty. This is unstamped.
-> **AJAX:** Unstamped means the Crown can't count it.
-> **DE GRAAF:** The Crown counts everything, Mr Fink. The Charter says no Harding glass leaves England. Do you know what they do to a ship's master caught with it? They don't hang him. They give him to the Hardings. *(a shudder he didn't mean to show)* Hangmen's family. Four hundred years they've had the rope at Tyburn.
-> **AJAX:** Then you're paying for my nerve, as well as the glass.
-> **DE GRAAF:** And your master? Whose coal pays for your nerve?
-> **AJAX:** *(smiling)* My master likes to know how a thing's made before he buys the shop.
-> **DE GRAAF:** *(turning the crystal in the loupe)* The last crate went grey by Rotterdam. Dull as river stones. My buyer says the light *dies* once it's far from London.
-> **AJAX:** Then sell it quick. Seventy.
-> **DE GRAAF:** Fifty, and I'm not asking why your glass needs to be near home.
+> **DE GRAAF:** Stamped glass fetches sixty in Antwerp. This has no stamp.
+> **AJAX:** No stamp, no Crown counting it.
+> **DE GRAAF:** The Crown counts everything, Mr Fink. A captain caught with unstamped Harding glass, they don't hang him. They hand him to the Hardings. *(a shudder he didn't mean to show)* Four hundred years they've held the rope at Tyburn. You think they forgot how to tie it?
+> **AJAX:** Then you're paying for my nerve and all.
+> **DE GRAAF:** And whose coal pays for yours?
+> **AJAX:** *(smiling)* My governor likes to know how a thing's made before he buys the shop.
+> **DE GRAAF:** *(turning the crystal in the loupe)* Last crate went grey by Rotterdam. Dull as river stones. My buyer says the light *dies* once it's far from London.
+> **AJAX:** Then don't dawdle. Seventy.
+> **DE GRAAF:** Fifty. And I don't ask why your glass gets homesick.
+> **AJAX:** *(a bite of apple, cheerful)* Everybody in London's selling Harding light, Mr de Graaf. I'm just the only one honest about the price.
 
 Above them, on the skylight, rain runs off a shape lying flat on the glass. **MIRIAM BOUNDS**, 24: tall and long-limbed, her dark hair braided tight under a wool cap, a charcoal coat with Vykra red stitched inside the collar, soft boots worn thin at the toe, and a knife flat against her spine. She has the calm face of a woman who has already counted the exits. Her lips move silently as she counts the men. *One. Two. Three…* She counts the lamps too. *Seven.*
 
@@ -113,13 +114,18 @@ She spins the dial on the safe. *Click… click… clunk.* Grise's strongbox goe
 Then the sisters face each other in the firelight.
 
 > **MIRIAM:** *(hoarse)* What are you doing here?
-> **ALICE:** Helping. He almost *had* you.
+> **ALICE:** Helping. He nearly *had* you, Mim.
 > **MIRIAM:** I had it under control.
 > **ALICE:** Your feet weren't touching the floor.
 > **MIRIAM:** *Ughh.* *(she takes her by the ear)* Walk.
 > **ALICE:** Ow, *easy*—
 
-They go out through the skylight, black against the green fire, and behind them the second crate goes up. *WHOOMPH.*
+Under the broken skylight, rain coming in on them, Alice says it out of a habit older than either of them can remember:
+
+> **ALICE:** Who goes first?
+> **MIRIAM:** Me. Always me.
+
+Miriam goes up the rope first and hauls her sister after her. They go out through the skylight, black against the green fire, and behind them the second crate goes up. *WHOOMPH.*
 
 ### 4. The Narrows, an hour later.
 
@@ -127,14 +133,14 @@ Constables' lanterns, guards being carried out on doors, the fire smothered in s
 
 He crouches by a split crate, brushes away the straw and finds the chiselled-off Works stamp.
 
-> **FELIX:** Harding glass, going out the back door.
-> **CONSTABLE:** It was girls did this, sir. A tall one and a small one.
+> **FELIX:** Harding glass, going out the back door. And somebody's buying.
+> **CONSTABLE:** Girls did this, sir. A tall one and a little 'un.
 > **FELIX:** Girls.
-> **CONSTABLE:** The small one did *that.* *(the bloodied window)*
+> **CONSTABLE:** The little 'un did *that.* *(the bloodied window)*
 
 Felix lifts a thread of red wool off the skylight frame and rolls it between his fingers.
 
-> **FELIX:** The tall one's careful. Careful people have somewhere to be.
+> **FELIX:** The tall one's tidy. Tidy people have somewhere to be.
 
 On the wall behind him is a peeling recruitment poster for the Royal Lantern Guard, a heroic Flame with a gauntlet raised: **LIGHT THE DARK. KEEP THE FLAME.** Someone has chalked under it: **WHO PAYS FOR IT?**
 
@@ -147,8 +153,12 @@ NATHANIEL HARDING, 21, straps on his leap-gauntlet prototype. He's lanky and ink
 BYRON, 64, the butler, picks soot out of his hair. He's silver-haired and straight-backed, an old soldier's moustache, white gloves somehow still white.
 
 > **BYRON:** Very graceful, sir. The coal agrees.
-> **NATHANIEL:** He's going to see it tonight, Byron. In front of the Crown. He'll *have* to look at it.
-> **BYRON:** Then I'll brush you twice.
+> **NATHANIEL:** Tonight he sees it, Byron. In front of the Crown. He'll *have* to look.
+> **BYRON:** Then I'll brush you twice. *(a beat)* And, sir, if he doesn't look—
+> **NATHANIEL:** He'll look.
+> **BYRON:** Yes, sir.
+
+He brushes him twice.
 
 Byron has been the only audience for these for years. As he goes, he lights himself down the servants' stair with a tallow candle, not a green lamp. Nobody in the house has ever asked why.
 
@@ -159,9 +169,12 @@ The room is full of the house's history. A framed print of the 1689 Charter hang
 ELDGARD HARDING, 58, pours two drinks. He's broad and grey and very still, in a perfectly cut black coat, with the wolf-crest ring from the cold open on his hand: four hundred years of it on one finger. JAMIE HARDING, 25, stands across the desk. He's tall and immaculate in evening black, his cravat already crooked from pulling at it, with grey eyes that haven't slept in a week.
 
 > **ELDGARD:** After tonight your preparation begins.
-> **JAMIE:** I know what the Tithe is.
+> **JAMIE:** Say what it's for.
+> **ELDGARD:** You know what it's for.
+> **JAMIE:** I know what the Tithe is. I want to hear you call it something.
+> **ELDGARD:** *(a long beat)* Drink with me, James.
 
-Eldgard pushes a glass across. Jamie leaves it where it is. On his way out he sets his pocket watch on his father's desk, wound and ticking, beside the telegram. Eldgard doesn't notice. Neither of them says the word that matters.
+Eldgard pushes a glass across. Jamie leaves it where it is. On his way out he sets his pocket watch on his father's desk, wound and ticking, beside the telegram. Eldgard doesn't notice. He never does call it anything.
 
 ### 7. The Shadwell laundry, after.
 
@@ -178,8 +191,9 @@ Miriam is between them before Alice can open her mouth.
 > **MIRIAM:** She's not interested, Grise.
 > **GRISE:** I asked her.
 > **MIRIAM:** And I'm answering. Keep your greasy, slimy hands off her.
+> **GRISE:** *(to Miriam, gently)* Every girl thinks she's the one who gets out, dear. It's what makes them good.
 
-Grise smiles as if she can wait. The sisters walk out into the fog.
+Miriam holds her eyes a beat too long. Grise smiles as if she can wait. The sisters walk out into the fog.
 
 *No dialogue.* Grise goes back inside, takes a pair of kid gloves from a drawer and holds them out to a girl working the mangle. The girl puts them on. Stitched inside the cuff is a knot.
 
@@ -248,7 +262,7 @@ Miriam does her hair at the mirror, slowly, with more care than she gives anythi
 
 > **MIRIAM:** Whatever Grise offers you, you say no.
 > **ALICE:** She said I had talent.
-> **MIRIAM:** She says that to every knife she wants to own. This life brings nothing but misery, Ali. Once you're in, you don't come out.
+> **MIRIAM:** She says that to every chiv she wants to own. This life brings nothing but misery, Ali. Once you're in, you don't come out.
 > **ALICE:** You're in.
 > **MIRIAM:** *(to the mirror)* That's why I'm asking.
 
@@ -256,7 +270,7 @@ She pins her hair, takes it down, and pins it again.
 
 > **ALICE:** That's three times.
 > **MIRIAM:** Twice.
-> **ALICE:** Who is he?
+> **ALICE:** Who is he? Some toff?
 > **MIRIAM:** Nobody.
 > **ALICE:** Nobody gets his hair done three times.
 > **MIRIAM:** *(a small smile)* It isn't real until it's mine.
@@ -286,6 +300,10 @@ For one unguarded second we see it on Alice's face. It isn't anger. It's yearnin
 At the door Miriam stops on something she decides not to say.
 
 > **MIRIAM:** Lock the door.
+> **ALICE:** *(the old game, not looking up)* Who goes first?
+> **MIRIAM:** *(a beat too long)* Me. Always me.
+
+She goes.
 
 ### 10. Harding House, Nathaniel's dressing room.
 
@@ -296,6 +314,10 @@ Nathaniel is at the mirror, losing a fight with a cravat. The gauntlet schematic
 > **JAMIE:** He won't ask. Show him anyway, in front of everyone. He can't say no in front of everyone.
 > **NATHANIEL:** *(laughing)* You'd make a terrible Harding.
 > **JAMIE:** I'm the only one who's had the training.
+> **NATHANIEL:** Go on, then. The speech.
+> **JAMIE:** *(the family voice, flat and perfect)* "Four hundred years ago, our ancestor Alistair Harding—"
+> **NATHANIEL:** Say it like you mean it.
+> **JAMIE:** I've never once meant it. *(he tightens the knot)* Tonight I'll say it perfectly.
 
 Jamie's eyes go to the question mark on the wall. He looks at it a long moment.
 
@@ -325,11 +347,15 @@ Across the street, under the awning of a closed chemist's, Felix Hawke watches a
 
 Rain drums the roof. Miriam climbs in, and Jamie takes her face in both hands before she can sit. We know what's in her glass; she doesn't. The scene plays like a love scene, and the audience watches it as a death.
 
-> **JAMIE:** Tonight's the night everything changes for us.
+> **JAMIE:** Tonight everything changes.
+> **MIRIAM:** You said that in August.
+> **JAMIE:** In August I didn't have these.
 
 He presses a velvet box into her palm. Inside are two silver hearts set with halves of one piece of green glass. Engraved inside the lid in old script are the Harding wolf and the words *Quod Teneo* ("What I hold").
 
 > **JAMIE:** A family heirloom. Wherever one is, the other finds it.
+> **MIRIAM:** And if one of us is somewhere we shouldn't be?
+> **JAMIE:** Then it finds you anyway.
 
 He fastens one round her neck and one round his own. *Click. Click.* It's the chain Josephine's glove caught. She shows him what's in her red mitten: three tickets.
 
@@ -381,7 +407,7 @@ Jamie steps up beside the case with the first lantern and says what he's suppose
 
 > **JAMIE:** Four hundred years ago, our ancestor Alistair Harding, a natural philosopher the Crown laughed at, found that the iron under Tyburn could be grown into light. He gave London the first lantern. Every lamp in this room is his gift, and our promise.
 
-We have seen the cold open; the room hasn't. The applause is the first lie of the series, and only we know it. Jamie smiles into it like a man swallowing glass. Only Nathaniel notices that his brother doesn't look at their father once.
+He says it perfectly, exactly as he promised his brother he would. We have seen the cold open; the room hasn't. The applause is the first lie of the series, and only we know it. Jamie smiles into it like a man swallowing glass. Only Nathaniel notices that his brother doesn't look at their father once.
 
 Then, on his brother's advice, Nathaniel steps forward in front of everyone with the gauntlet strapped to his arm.
 
@@ -490,7 +516,7 @@ The green lamps sputter. *Bzzt… bzzt.* Alice comes through the doors at a dead
 
 Alice doesn't scream. She sinks to her knees, takes her sister's cold hand and presses it to her forehead.
 
-> **ALICE:** You said tomorrow. You *promised* tomorrow.
+> **ALICE:** You said tomorrow. You *promised* tomorrow. *(barely)* You always go first.
 
 Her shoulders shake without a sound. Felix looks away.
 
@@ -535,3 +561,36 @@ Everything except the intercut: the wordless cold open and match cut; Felix trac
 - **Snap-glass** joins the Vykra kit alongside winter's kiss and the knot.
 - **Felix** now knows Harding glass is going out the back door, which gives his Ep 2 file a second thread.
 - **Episode 1 has 26 scenes.** If you adopt this cut, I'll fold it into the season document and the tracker and renumber every "Ep 1, scene N" reference in the ledger.
+
+---
+
+## The dialogue pass
+
+The scenes and structure are unchanged. This pass works only on the lines, and it adds one new dimension: **London speaks in two registers.**
+
+### The rules
+
+1. **Two cities, two tongues.** Gin Lane talks in clipped thieves' cant ("chiv," "toff," "little 'un," "governor") and never wastes a word. Mayfair talks in full, polished sentences that say nothing on purpose. You can tell where a character is from with your eyes shut, and you can tell when someone is crossing over.
+2. **Lines that come back changed.** The best line in a scene is one we've already heard somewhere else, now meaning something different. The pilot now has three: "Who goes first?", Jamie's speech, and "it finds you anyway."
+3. **Villains tell the truth.** Ajax and Grise get the most honest lines in the episode. That's what makes them frightening.
+4. **Say less.** Wherever a character would explain a feeling, they ask a question or deflect instead, and the feeling sits underneath.
+
+### What changed
+
+| Scene | Before | After | Why |
+| --- | --- | --- | --- |
+| 2, the deal | Ajax haggles | Adds "Everybody in London's selling Harding light. I'm just the only one honest about the price." and De Graaf's "I don't ask why your glass gets homesick" | Ajax states the season's theme of who pays for the light, as a villain's boast. "Homesick" turns the plant that the glass dies far from London into a joke, so it lands without sounding like exposition. |
+| 2, the deal | "Hangmen's family" | "Four hundred years they've held the rope at Tyburn. You think they forgot how to tie it?" | The Hardings' history becomes a threat instead of a fact. |
+| 3, after the fight | Sisters leave | "Who goes first?" "Me. Always me." Miriam climbs first and hauls Alice up | A childhood call-and-response, set up in action, where it means protection. |
+| 7, Grise | Grise smiles | "Every girl thinks she's the one who gets out, dear. It's what makes them good." | Grise is telling Miriam she knows she's running, in front of Alice, who hears only a compliment. It's the poison in a sentence, three scenes early. |
+| 6, the study | "I know what the Tithe is." | "Say what it's for." / "I want to hear you call it something." / "Drink with me, James." | The father refuses to name what he's going to do to his son. The scene is about a word neither will say, so the dialogue goes around it. |
+| 5, Byron | "Then I'll brush you twice." | Adds "And, sir, if he doesn't look—" "He'll look." "Yes, sir." | Byron sees the humiliation coming and is too kind to say so. It pays off in the stables. |
+| 9, the mirror | "Lock the door." | "Who goes first?" "(a beat too long) Me. Always me." | The same words as the warehouse. This time "first" means first out the door and first to leave her. Alice doesn't hear the difference; we do. |
+| 9, the mirror | "every knife," "Who is he?" | "every chiv," "Some toff?" | Gin Lane register. "Toff" is also exactly what Jamie is. |
+| 10, the brothers | The cravat | "Say it like you mean it." "I've never once meant it. Tonight I'll say it perfectly." | Sets up the speech, so that in scene 14 Jamie's flawless delivery is a promise kept to his brother and a lie to everyone else. |
+| 12, the coach | "Tonight's the night everything changes for us." | "You said that in August." "In August I didn't have these." | A couple who have been planning this for months, in two lines. |
+| 12, the coach | "Wherever one is, the other finds it." | Adds "And if one of us is somewhere we shouldn't be?" "Then it finds you anyway." | A love line that becomes the mechanism: an hour later the locket finds her in the river. |
+| 14, the speech | Jamie gives the speech | "He says it perfectly, exactly as he promised his brother he would." | Pays off scene 10. |
+| 4, Felix | "careful," "small one" | "tidy," "little 'un," "And somebody's buying." | Felix's dry wit, the constable's cant, and a second thread for his file. |
+| 26, the morgue | "You promised tomorrow." | Adds, barely: "You always go first." | The call-and-response pays off for the last time. She did go first. Then the dead woman says "Ali," and it isn't her. |
+
